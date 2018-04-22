@@ -40,7 +40,7 @@ My priority list currently includes:
 3. Launch Izabela.exe in builds/Izabela-win32-x64 (I recommend creating a shortcut for later use)
 
 ### [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable)
-Virtual Audio Cables allows you to create a virtual audio cable that links an audio output to an audio input.
+Virtual Audio Cables allows you to create a.. virtual audio cable that links an audio output to an audio input.
 
 1. Use the version inside the **dependencies** folder or [download](http://www.vb-audio.com/Cable/index.htm#DownloadCable) the latest version on [vb-audio.com](http://www.vb-audio.com).
 2. Unzip the zip file and execute VBCABLE_Setup **(32bits)** or VBCABLE_Setup_x64 **(64bits)** **as administrator.** A window should appear and ask you to install the virtual cable, follow the instructions.
