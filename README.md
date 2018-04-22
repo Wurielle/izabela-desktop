@@ -23,7 +23,7 @@ That is why I decided to distribute this proof of concept to see where it could 
 
 ## Roadmap & Requirements
 Izabela works on its own if you just want to make it pronounce words or sentences. However it is much more useful when you want to communicate with it through a microphone.
-For that task you'll need [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable) which is included in the **dependencies** folder. See the **[Installation](https://github.com/Wurielle/izabela#installation)** section below for guidance.
+For that task you'll need [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable) which is included in the **dependencies** folder. See the **[Installation](https://github.com/Wurielle/izabela-windows#installation)** section below for guidance.
 
 My priority list currently includes:
 * More apis integration
@@ -34,8 +34,8 @@ My priority list currently includes:
 * **And of course your feedback!**
 
 ## Installation
-### [Izabela](https://github.com/Wurielle/izabela/)
-1. [Download](https://github.com/Wurielle/izabela/) the latest release (which includes a version of [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable))
+### [Izabela](https://github.com/Wurielle/izabela-windows/)
+1. [Download](https://github.com/Wurielle/izabela-windows/releases/latest) the latest release (which includes a version of [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable))
 2. Unzip the zip file somewhere on your PC
 3. Launch Izabela.exe in builds/Izabela-win32-x64 (I recommend creating a shortcut for later use)
 
@@ -71,8 +71,8 @@ Global mode allows you to type words or sentences even if the app is not focused
 > It also disables those keys in the application you are using so make sure to leave the global mode when you are done.
 
 ### Routing Izabela to your microphone
-Once you completed the [installation](https://github.com/Wurielle/izabela#installation):
-1. Open the option panel in Izabela 
+Once you completed the [installation](https://github.com/Wurielle/izabela-windows#installation):
+1. Open the option panel in Izabela
 2. Select CABLE Input as Audio Output
 3. And that's it!
 
