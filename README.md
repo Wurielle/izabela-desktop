@@ -1,6 +1,10 @@
 # Izabela
 A proof of concept text-to-speech application allowing global typing. Can be used over applications such as voice chats, games and much more.
+
 ![alt text](https://i.imgur.com/VswqHl4.gif)
+
+## Known Bugs & Hotfixes
+* If the app is suddenly not working correctly, try deleting `user-settings.json` in `C:\Users\YourName\AppData\Roaming\Izabela` and restart Izabela.
 
 ## What is it and why does it exist
 Izabela is a text-to-speech application for Windows. You can select a language, change pitch or rate (just like a regular text-to-speech application on the web you could say) but here's the kicker: **It's not in a browser.**
@@ -11,7 +15,7 @@ Using [Electron](https://electron.atom.io), Izabela brings the best of both worl
 * An easy to use text-to-speech web api
 * Global Windows Shortcuts
 
-By combining this with softwares like [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable), you can communicate through voice chat applications while the app is focused **or not**!
+By combining this with softwares like [Virtual Audio Cables](http://www.vb-audio.com/Cable/index.htm#DownloadCable), you can communicate through voice chat applications while the app is focused **[or not](https://github.com/Wurielle/izabela-desktop#global-mode)**!
 
 ### Why does it exist?
 
@@ -54,6 +58,7 @@ You can choose between Sentence mode and Word mode in the parameters. You can al
 ### Global mode
 You can access Global mode by pressing `Alt+Enter` and leave it by pressing `Alt+Enter`  again.
 Global mode allows you to type words or sentences even if the app is not focused (in a game for instance).
+
 ![alt text](https://i.imgur.com/gSrFTcG.jpg)
 > NOTE:
 > Global mode uses letters from [A-Z] and numbers between [0-9]. It does **NOT** support punctuation yet!
