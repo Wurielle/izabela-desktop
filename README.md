@@ -1,7 +1,7 @@
 # Izabela
 A proof of concept text-to-speech application allowing global typing. Can be used over applications such as voice chats, games and much more.
 
-![alt text](https://i.imgur.com/VswqHl4.gif)
+<img src="https://i.imgur.com/VswqHl4.gif?raw=true" width="100%">
 
 ## Known Bugs & Hotfixes
 * If the app is suddenly not working correctly, try deleting `user-settings.json` in `C:\Users\YourName\AppData\Roaming\Izabela` and restart Izabela.
