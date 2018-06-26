@@ -5,6 +5,8 @@ A proof of concept text-to-speech application allowing global typing. Can be use
 
 ![GitHub release](https://img.shields.io/github/release/Wurielle/izabela-desktop.svg) ![Github All Releases](https://img.shields.io/github/downloads/Wurielle/izabela-desktop/total.svg) 
   [![GitHub followers](https://img.shields.io/github/followers/Wurielle.svg?style=social&label=Follow)](https://github.com/Wurielle)
+ 
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 ## Known Bugs & Hotfixes
