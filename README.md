@@ -1,8 +1,11 @@
-![Github All Releases](https://img.shields.io/github/downloads/Wurielle/izabela-desktop/total.svg)
 # Izabela
 A proof of concept text-to-speech application allowing global typing. Can be used over applications such as voice chats, games and much more.
 
 <img src="https://i.imgur.com/zMKCnGt.gif?raw=true" width="100%">
+
+![GitHub release](https://img.shields.io/github/release/Wurielle/izabela-desktop.svg) ![Github All Releases](https://img.shields.io/github/downloads/Wurielle/izabela-desktop/total.svg) 
+  [![GitHub followers](https://img.shields.io/github/followers/Wurielle.svg?style=social&label=Follow)](https://github.com/Wurielle)
+
 
 ## Known Bugs & Hotfixes
 * If the app is suddenly not working correctly, try deleting `user-settings.json` in `C:\Users\YourName\AppData\Roaming\Izabela` and restart Izabela.
