@@ -1,3 +1,4 @@
+![Github All Releases](https://img.shields.io/github/downloads/Wurielle/izabela-desktop/total.svg)
 # Izabela
 A proof of concept text-to-speech application allowing global typing. Can be used over applications such as voice chats, games and much more.
 
