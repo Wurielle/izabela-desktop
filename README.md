@@ -3,7 +3,7 @@ A proof of concept text-to-speech application allowing global typing. Can be use
 
 <img src="https://i.imgur.com/zMKCnGt.gif?raw=true" width="100%">
 
-![GitHub release](https://img.shields.io/github/release/Wurielle/izabela-desktop.svg) ![Github All Releases](https://img.shields.io/github/downloads/Wurielle/izabela-desktop/total.svg) 
+[![GitHub release](https://img.shields.io/github/release/Wurielle/izabela-desktop.svg)](https://github.com/Wurielle/izabela-desktop/releases) [![Github All Releases](https://img.shields.io/github/downloads/Wurielle/izabela-desktop/total.svg)](https://www.somsubhra.com/github-release-stats/?username=Wurielle&repository=izabela-desktop)
   [![GitHub followers](https://img.shields.io/github/followers/Wurielle.svg?style=social&label=Follow)](https://github.com/Wurielle)
  
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -11,6 +11,7 @@ A proof of concept text-to-speech application allowing global typing. Can be use
 
 ## Known Bugs & Hotfixes
 * If the app is suddenly not working correctly, try deleting `user-settings.json` in `C:\Users\YourName\AppData\Roaming\Izabela` and restart Izabela.
+* If the app is not catching keybinds over an application, try launching it as Administrator. Many thanks to u/Amuff1n for finding that out!
 
 ## What is it and why does it exist
 Izabela is a text-to-speech application for Windows. You can select a language, change pitch or rate (just like a regular text-to-speech application on the web you could say) but here's the kicker: **It's not in a browser.**
