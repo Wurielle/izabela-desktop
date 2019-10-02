@@ -9,11 +9,9 @@ A proof of concept text-to-speech application allowing global typing. Can be use
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Project Updates
-The project is still in active development!
-
+The project is still in active development!  
 I'm keeping up a list of tasks that need to be done before the next release,
-It's available [here!](https://www.notion.so/wurielle/3b507a01858a4d5db28927c248a8dc47?v=c7c6bc64ff81406293916a7eb45fa484)
-
+It's available [here!](https://www.notion.so/wurielle/3b507a01858a4d5db28927c248a8dc47?v=c7c6bc64ff81406293916a7eb45fa484)  
 Thank you for your patience!
 
 ## Known Bugs & Hotfixes
