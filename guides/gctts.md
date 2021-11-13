@@ -1,9 +1,9 @@
 # Setup Google Cloud Text-to-Speech
 ## Table of content
-* [Create a Google Cloud Platform account]()
-* [Create a Google Cloud Platform project]()
-* [Enable Google Cloud Text-to-Speech]()
-* [Create an API key]()
+* [Create a Google Cloud Platform account](#create-a-google-cloud-platform-account)
+* [Create a Google Cloud Platform project](#create-a-google-cloud-platform-project)
+* [Enable Google Cloud Text-to-Speech](#enable-google-cloud-text-to-speech)
+* [Create a Google Cloud Text-to-Speech API key](#create-a-google-gloud-tts-api-key)
 
 
 ## Create a Google Cloud Platform account
