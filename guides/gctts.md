@@ -39,7 +39,7 @@ Once the project has been created, enable Google Cloud Text-to-Speech for the pr
 ![image](https://user-images.githubusercontent.com/15323067/139528834-66c0da25-a277-497e-b1ee-3e3808c34812.png)
 
 
-## Create an API key
+## Create a Google Cloud Text-to-Speech API key
 Once Google Cloud Text-to-Speech has been enabled, create and API key that you can use in Izabela.
 * Go to: https://console.cloud.google.com/apis/credentials?project=izabela-tts
 * Click on "Create Credentials" and then "Create API key" and make sure "Izabela TTS" is selected at the top
