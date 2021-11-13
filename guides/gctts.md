@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/15323067/137848375-bd6811dd-fa22-46a5-81d7-a6c744af37fd.png)
 
 * Sign in with your primary gmail account
-* You'll lang on a page with several steps you need to complete in order to create your Google Cloud account
+* You'll land on a page with several steps you need to complete in order to create your Google Cloud account
 * **Step 1** - Select your country then select "Personal Project" as description then continue:
 
 ![image](https://user-images.githubusercontent.com/15323067/137991353-5bde8a49-eae9-4f02-afef-1d3db6daa822.png)
@@ -33,5 +33,18 @@ Once the project has been created, enable Google Cloud Text-to-Speech for the pr
 ![image](https://user-images.githubusercontent.com/15323067/139528834-66c0da25-a277-497e-b1ee-3e3808c34812.png)
 
 
-## Create a Google Cloud user
-## Get your API key
+## Create an API key
+Once Google Cloud Text-to-Speech has been enabled, create and API key that you can use in Izabela.
+* Go to: https://console.cloud.google.com/apis/credentials?project=izabela-tts
+* Click on "Create Credentials" and then "Create API key" and make sure "Izabela TTS" is selected at the top
+
+![image](https://user-images.githubusercontent.com/15323067/141654899-3ea0b5fe-c776-4850-a732-451b46062614.png)
+
+* You'll see a window appear with your newly created api key. You can now copy the key and paste it in Izabela. 
+**NOTE**: An API key should be treated like a password. NEVER share your API key with anyone. If you think your key is compromised, please return to the credentials page, generate a new key and delete the previous one.
+
+![image](https://user-images.githubusercontent.com/15323067/141655040-4275c4a8-7861-4a91-a730-d8a60e528d21.png)
+![image](https://user-images.githubusercontent.com/15323067/141655217-c0ae39f5-90c5-4841-b76e-7130369f228f.png)
+
+
+
