@@ -1,5 +1,11 @@
 # Setup Google Cloud Text-to-Speech
 ## Table of content
+* [Create a Google Cloud Platform account]()
+* [Create a Google Cloud Platform project]()
+* [Enable Google Cloud Text-to-Speech]()
+* [Create an API key]()
+
+
 ## Create a Google Cloud Platform account
 * Go to: [https://cloud.google.com/gcp](https://cloud.google.com/gcp) and click on "Get started for free":
 
@@ -41,10 +47,13 @@ Once Google Cloud Text-to-Speech has been enabled, create and API key that you c
 ![image](https://user-images.githubusercontent.com/15323067/141654899-3ea0b5fe-c776-4850-a732-451b46062614.png)
 
 * You'll see a window appear with your newly created api key. You can now copy the key and paste it in Izabela. 
+
 **NOTE**: An API key should be treated like a password. NEVER share your API key with anyone. If you think your key is compromised, please return to the credentials page, generate a new key and delete the previous one.
 
 ![image](https://user-images.githubusercontent.com/15323067/141655040-4275c4a8-7861-4a91-a730-d8a60e528d21.png)
 ![image](https://user-images.githubusercontent.com/15323067/141655217-c0ae39f5-90c5-4841-b76e-7130369f228f.png)
+
+To test if the key is working, click on the "REFRESH LIST" button next to "Voices". If the list is empty, please retry the steps above as it means there's an issue with the API key. Otherwise everything is working!
 
 
 
