@@ -3,7 +3,7 @@
 * [Create a Google Cloud Platform account](#create-a-google-cloud-platform-account)
 * [Create a Google Cloud Platform project](#create-a-google-cloud-platform-project)
 * [Enable Google Cloud Text-to-Speech](#enable-google-cloud-text-to-speech)
-* [Create a Google Cloud Text-to-Speech API key](#create-a-google-gloud-text-to-speech-api-key)
+* [Create a Google Cloud Text-to-Speech API key](#create-a-google-cloud-text-to-speech-api-key)
 
 
 ## Create a Google Cloud Platform account
