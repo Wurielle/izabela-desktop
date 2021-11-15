@@ -29,11 +29,11 @@ Once IBW Watson Text-to-Speech has been enabled, get your API Key for the servic
 
 ![image](https://user-images.githubusercontent.com/15323067/141836036-830ee516-e5aa-4447-b8b2-be70c4e4ab48.png)
 
-* On the "Manage" tab you should have access to your API key for this service as well as the url used to access this service
+* On the "Manage" tab you should have access to your **API key** for this service as well as the **URL** used to access this service
 
 ![image](https://user-images.githubusercontent.com/15323067/141836434-7aa457b2-149b-450e-a106-d790d290e211.png)
 
-* Copy the API key and the Url and paste them into Izabela 
+* Copy the **API key** and the **URL** and paste them into Izabela 
 
 ![image](https://user-images.githubusercontent.com/15323067/141836829-0d05fa49-c1f0-4e29-b12a-a35f9c0741e4.png)
 
