@@ -3,7 +3,7 @@
 ## Table of content
 * [Create a Microsoft Azure account](#create-a-microsoft-azure-account)
 * [Create a Microsoft Azure Resource Group](#create-a-microsoft-azure-resource-group)
-* [Create a Microsoft Azure Speech Service](##create-a-microsoft-azure-speech-service)
+* [Create a Microsoft Azure Speech Service](#create-a-microsoft-azure-speech-service)
 * [Get your Microsoft Azure API Key](#get-your-microsoft-azure-api-key)
 
 ## Create a Microsoft Azure account
