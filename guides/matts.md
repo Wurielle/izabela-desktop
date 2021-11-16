@@ -39,6 +39,19 @@ Once a resources group has been created, create a Speech Service for that accoun
 ![image](https://user-images.githubusercontent.com/15323067/142046182-fc55b430-70de-4b1c-bf22-acc7fa92e2c1.png)
 
 
+## Get your Microsoft Azure API Key
+Once a speech service has been created, get your Microsoft Azure API key.
+* Go to: [https://portal.azure.com/#blade/Microsoft_Azure_ProjectOxford/CognitiveServicesHub/SpeechServices](https://portal.azure.com/#blade/Microsoft_Azure_ProjectOxford/CognitiveServicesHub/SpeechServices) and click on the speech service you just created
 
+![image](https://user-images.githubusercontent.com/15323067/142048692-3f52942c-9ca1-4363-ab32-85c606f0dc20.png)
 
-Coming this week 😄
+* You'll land on the detail page of your speech service. From there, click on "Click here to manage keys" to get your speech service keys
+
+![image](https://user-images.githubusercontent.com/15323067/142050150-493f3291-59f2-46f4-ba94-805d8a72316d.png)
+
+* Copy the **API key** and the **Location/Region** and paste them into Izabela
+
+![image](https://user-images.githubusercontent.com/15323067/142050443-2d09c421-5a0e-40f9-8c14-679dc41b9d2a.png)
+![image](https://user-images.githubusercontent.com/15323067/142050579-12c9c590-21d6-47d7-b8f2-59bb7866d6c2.png)
+
+To test if the key is working, click on the "REFRESH LIST" button next to "Voice". If the list is empty, please retry the steps above as it means there's an issue with the API key. Otherwise everything should be working!
