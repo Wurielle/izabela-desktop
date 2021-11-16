@@ -33,8 +33,10 @@ Once a resources group has been created, create a Speech Service for that accoun
 * Select the region closest to you
 * Set "Izabela-TTS" as name
 * Select the free tier
+* Click on "Review + create" then "Create"
 
 ![image](https://user-images.githubusercontent.com/15323067/142045949-068d849c-1426-49f6-96f1-5089facb54db.png)
+![image](https://user-images.githubusercontent.com/15323067/142046182-fc55b430-70de-4b1c-bf22-acc7fa92e2c1.png)
 
 
 
