@@ -15,6 +15,17 @@
 
 ![image](https://user-images.githubusercontent.com/15323067/142039140-446b1e9f-e357-4a15-a341-416eafb799a7.png)
 
+## Enable Microsoft Azure Text-to-Speech
+* Go to: [https://portal.azure.com](https://portal.azure.com) and click on "Ressource groups" to create a new ressource group
+
+![image](https://user-images.githubusercontent.com/15323067/142041781-8335c57f-4bec-42f3-bc99-ffba9f104312.png)
+
+* Create a new ressource group called "Izabela-TTS" and select the region closest to you
+
+![image](https://user-images.githubusercontent.com/15323067/142042251-47b773cf-e749-4dd8-81ef-4bc0a0b8d66e.png)
+![image](https://user-images.githubusercontent.com/15323067/142042669-a550d9db-b2e3-49dd-b1a1-00f74945603a.png)
+
+
 
 
 Coming this week 😄
