@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/15323067/142039140-446b1e9f-e357-4a15-a341-416eafb799a7.png)
 
-## Enable Microsoft Azure Text-to-Speech
+## Create a Microsoft Azure Resource Group
 * Go to: [https://portal.azure.com](https://portal.azure.com) and click on "Resource groups" to create a new ressource group
 
 ![image](https://user-images.githubusercontent.com/15323067/142041781-8335c57f-4bec-42f3-bc99-ffba9f104312.png)
@@ -25,6 +25,16 @@
 ![image](https://user-images.githubusercontent.com/15323067/142042251-47b773cf-e749-4dd8-81ef-4bc0a0b8d66e.png)
 ![image](https://user-images.githubusercontent.com/15323067/142043574-8ea43ae0-e71e-40a0-be9e-0c40cf1af172.png)
 ![image](https://user-images.githubusercontent.com/15323067/142043922-cc2b17eb-c230-4e5f-bbe0-6ee81848fe4c.png)
+
+## Create a Microsoft Azure Speech Service
+Once a resources group has been created, create a Speech Service for that account.
+* Go to: [https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices](https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices)
+* Select the resource group that we just created
+* Select the region closest to you
+* Set "Izabela-TTS" as name
+* Select the free tier
+
+![image](https://user-images.githubusercontent.com/15323067/142045949-068d849c-1426-49f6-96f1-5089facb54db.png)
 
 
 
