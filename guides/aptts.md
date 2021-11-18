@@ -21,6 +21,9 @@ Once your account has been created, create a Cognito access to link to Izabela.
 
 ![image](https://user-images.githubusercontent.com/15323067/142490680-7c5c331a-bb7e-466d-a569-85d0c1573435.png)
 
+![image](https://user-images.githubusercontent.com/15323067/142492229-a7cc1aef-ccf0-4237-80ad-5849fc6e4648.png)
+
+![image](https://user-images.githubusercontent.com/15323067/142492415-a2d3b9ee-a4eb-4af6-bde7-513f1622eb70.png)
 
 
 ## Enable access to Amazon Polly
