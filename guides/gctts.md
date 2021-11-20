@@ -1,4 +1,7 @@
 # Setup Google Cloud Text-to-Speech
+
+**IMPORTANT NOTE**: The credentials generated in this guide should be treated like passwords. **NEVER** share your credentials with anyone unless you know what you're doing. If you think your credentials are compromised, please return to the credentials page, generate new ones and delete the previous ones.
+
 ## Table of content
 * [Create a Google Cloud Platform account](#create-a-google-cloud-platform-account)
 * [Create a Google Cloud Platform project](#create-a-google-cloud-platform-project)
@@ -47,8 +50,6 @@ Once Google Cloud Text-to-Speech has been enabled, create an API key that you ca
 ![image](https://user-images.githubusercontent.com/15323067/141654899-3ea0b5fe-c776-4850-a732-451b46062614.png)
 
 * You'll see a window appear with your newly created api key. You can now copy the key and paste it in Izabela. 
-
-**NOTE**: An API key should be treated like a password. NEVER share your API key with anyone. If you think your key is compromised, please return to the credentials page, generate a new key and delete the previous one.
 
 ![image](https://user-images.githubusercontent.com/15323067/141655040-4275c4a8-7861-4a91-a730-d8a60e528d21.png)
 ![image](https://user-images.githubusercontent.com/15323067/141655217-c0ae39f5-90c5-4841-b76e-7130369f228f.png)
