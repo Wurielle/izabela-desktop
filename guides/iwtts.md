@@ -1,5 +1,7 @@
 # Setup IBM Watson Text-to-Speech
 
+**IMPORTANT NOTE**: The credentials generated in this guide should be treated like passwords. **NEVER** share your credentials with anyone unless you know what you're doing. If you think your credentials are compromised, please return to the credentials page, generate new ones and delete the previous ones.
+
 ## Table of content
 * [Create an IBM Cloud account](#create-an-ibm-cloud-account)
 * [Create an IBM Watson Text-to-Speech Service](#create-an-ibm-watson-text-to-speech-service)
