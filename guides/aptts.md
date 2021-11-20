@@ -8,7 +8,7 @@
 * [Enable access to Amazon Polly](#enable-access-to-amazon-polly)
 
 ## Create an Amazon Web Services account
-* Go to: [https://aws.amazon.com](https://aws.amazon.com) and click on "Get started for free":
+* Go to: [https://aws.amazon.com](https://aws.amazon.com) and click on "Create an AWS Account":
 
 ![image](https://user-images.githubusercontent.com/15323067/142482900-cce31fcd-8ccc-4545-96a2-293ff208d366.png)
 
