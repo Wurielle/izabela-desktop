@@ -45,8 +45,19 @@ Once your Cognito access has been created, enable access to Amazon Polly for you
 * Go to: [https://console.aws.amazon.com/iamv2/home?#/roles](https://console.aws.amazon.com/iamv2/home?#/roles) and click on "Cognito_IzabelaTTSUnauth_Role"
 
 ![image](https://user-images.githubusercontent.com/15323067/142719893-94f24bce-f2b2-4032-b0f5-5e8f3c980d0a.png)
+
+You'll land on the detail page for the role "Cognito_IzabelaTTSUnauth_Role". On that page:
+* Click on "Attach policies"
+
 ![image](https://user-images.githubusercontent.com/15323067/142720004-dace8e66-5a73-4e40-9ef5-7ac7d082dcab.png)
+
+You'll land on the policy list page for the role "Cognito_IzabelaTTSUnauth_Role". On that page:
+* Search "Polly" to filter the list
+* Check "AmazonPollyReadOnlyAccess"
+* Click on "Attach policy" to confirm
+
 ![image](https://user-images.githubusercontent.com/15323067/142720035-6db46525-e828-470d-a9f5-3b31ae43afdf.png)
 
+After that you should be able to use Amazon Polly in Izabela.
 
-Coming this week 😄
+To test if the key is working, click on the "REFRESH LIST" button next to "Voice". If the list is empty, please retry the steps above as it means there's an issue with the API key. Otherwise everything should be working!
