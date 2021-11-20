@@ -25,7 +25,7 @@ Once your account has been created, create a Cognito access to link to Izabela.
 You'll land on the Identity pool creation page. On that page:
 * Set Izabela TTS as  "Identity pool name"
 * Select "Enable access to unauthenticated identities"
-* Click "Create pool" to confirm
+* Click "Create Pool" to confirm
 
 ![image](https://user-images.githubusercontent.com/15323067/142488871-5a0751a3-4ae0-4752-ae43-cd21971c42fc.png)
 
