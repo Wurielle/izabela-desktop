@@ -17,12 +17,26 @@ Once your account has been created, create a Cognito access to link to Izabela.
 
 ![image](https://user-images.githubusercontent.com/15323067/142485977-c2f87be6-9bd4-4332-93de-307b2e0fc1fa.png)
 
+You'll land on the Identity pool creation page. On that page:
+* Set Izabela TTS as  "Identity pool name"
+* Select "Enable access to unauthenticated identities"
+* Click "Create pool" to confirm
+
 ![image](https://user-images.githubusercontent.com/15323067/142488871-5a0751a3-4ae0-4752-ae43-cd21971c42fc.png)
+
+You'll land on the role creation page for the Identity Pool we just created. On that page:
+* Click on "Show details"
+* Check that you're creating a new IAM Role called "Cognito_IzabelaTTSUnauth_Role"
+* Click "Allow" to confirm
 
 ![image](https://user-images.githubusercontent.com/15323067/142490680-7c5c331a-bb7e-466d-a569-85d0c1573435.png)
 
-![image](https://user-images.githubusercontent.com/15323067/142492229-a7cc1aef-ccf0-4237-80ad-5849fc6e4648.png)
+You'll land on the detail page for the Identity Pool we just created. On that page:
+* Select "JavaScript" in "Platform" to show the JavaScript code with our Cognito informations
+* Copy the "region" value which should look like `eu-west-2` and paste it in the "Region" field in Izabela
+* Copy the "IdentityPoolId" value which should look like `eu-west-2:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx` and paste it in the "Identity Pool ID" field in Izabela
 
+![image](https://user-images.githubusercontent.com/15323067/142492229-a7cc1aef-ccf0-4237-80ad-5849fc6e4648.png)
 ![image](https://user-images.githubusercontent.com/15323067/142492415-a2d3b9ee-a4eb-4af6-bde7-513f1622eb70.png)
 
 
