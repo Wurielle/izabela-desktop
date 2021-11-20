@@ -3,6 +3,9 @@
 **IMPORTANT NOTE**: The credentials generated in this guide should be treated like passwords. **NEVER** share your credentials with anyone unless you know what you're doing. If you think your credentials are compromised, please return to the credentials page, generate new ones and delete the previous ones.
 
 ## Table of content
+* [Create an Amazon Web Services account](#create-an-amazon-web-services-account)
+* [Create a Cognito access](#create-a-cognito-access)
+* [Enable access to Amazon Polly](#enable-access-to-amazon-polly)
 
 ## Create an Amazon Web Services account
 * Go to: [https://aws.amazon.com](https://aws.amazon.com) and click on "Get started for free":
