@@ -18,7 +18,7 @@
 
 ## Create a Cognito access
 Once your account has been created, create a Cognito access to link to Izabela.
-* Go to: [https://console.aws.amazon.com/cognito/v2/home](https://console.aws.amazon.com/cognito/v2/home) and click on "Manage Identity Pools"
+* Go to: [https://console.aws.amazon.com/cognito/v2/home](https://console.aws.amazon.com/cognito/v2/home) and click on "Create identity pool"
 
 ![image](https://user-images.githubusercontent.com/15323067/142485977-c2f87be6-9bd4-4332-93de-307b2e0fc1fa.png)
 
