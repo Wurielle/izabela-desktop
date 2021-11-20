@@ -41,5 +41,12 @@ You'll land on the detail page for the Identity Pool we just created. On that pa
 
 
 ## Enable access to Amazon Polly
+Once your Cognito access has been created, enable access to Amazon Polly for your Identity Pool.
+* Go to: [https://console.aws.amazon.com/iamv2/home?#/roles](https://console.aws.amazon.com/iamv2/home?#/roles) and click on "Cognito_IzabelaTTSUnauth_Role"
+
+![image](https://user-images.githubusercontent.com/15323067/142719893-94f24bce-f2b2-4032-b0f5-5e8f3c980d0a.png)
+![image](https://user-images.githubusercontent.com/15323067/142720004-dace8e66-5a73-4e40-9ef5-7ac7d082dcab.png)
+![image](https://user-images.githubusercontent.com/15323067/142720035-6db46525-e828-470d-a9f5-3b31ae43afdf.png)
+
 
 Coming this week 😄
